@@ -1,10 +1,8 @@
 # Predicting Job Shift using Linkedin Tech-Talent Data
-***
 
 Includes detailed solution of [__Garanti BBVA Data Camp__](https://www.kaggle.com/competitions/garanti-bbva-data-camp). I attended the competition solo and ranked 14th(top %9) out of 210 competitors and 174 teams. 
 
 ## Solution Pipeline
-***
 * Cleaning education, skill, language, work experiences datasets which are included with erroneous data at a high rate and fixing a few problems on train - test sets.
 * Feature engineering followed by imputation and encoding.
 * Using Random Forest cross-validation training and stacking, according to model selection during the competition and also with the best dataset decided by various feature selection techniques.
