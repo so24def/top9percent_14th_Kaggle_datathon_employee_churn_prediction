@@ -8,7 +8,7 @@ Includes detailed solution of [__Garanti BBVA Data Camp__](https://www.kaggle.co
 * Using Random Forest cross-validation training and stacking, according to model selection during the competition and also with the best dataset decided by various feature selection techniques.
 
 __Main solution can be found both in English and Turkish, with the added bonus/unused work performed during competition.__
-
+***
 #### Bonus content:
 __I also added:__
 * The mentioned fi_forward_feature_selector function that I wrote and used to create the dataset that got me the second best private score of my final day submissions
