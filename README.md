@@ -5,7 +5,7 @@ Includes detailed solution of [__Garanti BBVA Data Camp__](https://www.kaggle.co
 ## Solution Pipeline
 * Cleaning education, skill, language, work experiences datasets which are included with erroneous data at a high rate and fixing a few problems on train - test sets.
 * Feature engineering followed by imputation and encoding.
-* Using Random Forest cross-validation training and stacking, according to model selection during the competition and also with the best dataset decided by vairous feature selection techniques.
+* Using Random Forest cross-validation training and stacking, according to model selection during the competition and also with the best dataset decided by various feature selection techniques.
 
 __Main solution can be found both in English and Turkish, with the added bonus/unused work performed during competition.__
 
