@@ -11,7 +11,7 @@ __Main solution can be found both in English and Turkish, with the added bonus/u
 ***
 #### Bonus content:
 __I also added:__
-* The mentioned fi_forward_feature_selector function that I wrote and used to create the dataset that got me the second best private score out of my two final submissions
+* The mentioned fi_forward_feature_selector function that I wrote and used to create the dataset that got me the second best private score out of my three final day submissions
 * The codes of HalvingGridSearch and Optuna, when I was in search of tuning hyperparameters faster than standart GridSearch. While GridSearchCV does not use any optimization algorithm and tries all the combinations from the given parameter grid, HalvingGridSearch uses and algorithm called successive halving.
 * The code of training curves with Yellowbrick library, to detect how hyperparameter values effect the model, and by that minimize the range of hyperparameters given to HalvingGridSearch to get even faster results.
 * The code that I used to scrape an external data but unfortunately seemed unimportant after modelling and so remained unused during competition
