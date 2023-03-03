@@ -22,6 +22,8 @@ __I also added:__
 * In-demand skills shared on Linkedin blog for years of [2018](https://www.linkedin.com/business/learning/blog/top-skills-and-courses/the-skills-companies-need-most-in-2018-and-the-courses-to-get), [2019](https://www.linkedin.com/business/learning/blog/top-skills-and-courses/the-skills-companies-need-most-in-2019-and-how-to-learn-them),[2020](https://www.linkedin.com/business/learning/blog/learning-and-development/most-in-demand-skills-2020)
 * Popular/useful languages shared on Linkedin blog for years of [2018](https://www.linkedin.com/pulse/7-most-useful-languages-learn-2018-nikola-gizarovski/), [2019](https://www.linkedin.com/pulse/top-5-internet-languages-2019-matthew-nelson/), [2020](https://www.linkedin.com/pulse/15-best-languages-learn-2020-ofer-tirosh/)
 * [World universities data](https://github.com/endSly/world-universities-csv), [Turkey cities data](https://github.com/yigith/TurkiyeSehirlerBolgeler), [Turkey districts data](https://github.com/volkansenturk/turkiye-iller-ilceler/blob/master/csvs/ilce.csv)
+***
+
 
 
 
