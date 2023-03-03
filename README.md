@@ -15,6 +15,14 @@ __I also added:__
 * The codes of HalvingGridSearch, TuneGridSearch and Optuna, when I was in search of tuning hyperparameters faster than standart GridSearch. While GridSearchCV does not use any optimization algorithm and tries all the combinations from the given parameter grid, HalvingGridSearch uses an algorithm called successive halving that makes it approximately 4x faster. Also TuneGridSearch is another faster alternative.
 * The code of training curves with Yellowbrick library, to detect how hyperparameter values effect the model, and by that minimize the range of hyperparameters given to HalvingGridSearch to get even faster results.
 * The code that I used to scrape an external data but unfortunately seemed unimportant after modelling and so remained unused during competition.
+***
+
+#### External Data/Sources:
+
+* In-demand skills shared on Linkedin blog for years of [2018](https://www.linkedin.com/business/learning/blog/top-skills-and-courses/the-skills-companies-need-most-in-2018-and-the-courses-to-get), [2019](https://www.linkedin.com/business/learning/blog/top-skills-and-courses/the-skills-companies-need-most-in-2019-and-how-to-learn-them),[2020](https://www.linkedin.com/business/learning/blog/learning-and-development/most-in-demand-skills-2020)
+* Popular/useful languages shared on Linkedin blog for years of [2018](https://www.linkedin.com/pulse/7-most-useful-languages-learn-2018-nikola-gizarovski/), [2019](https://www.linkedin.com/pulse/top-5-internet-languages-2019-matthew-nelson/), [2020](https://www.linkedin.com/pulse/15-best-languages-learn-2020-ofer-tirosh/)
+* [World universities data](https://github.com/endSly/world-universities-csv), [Turkey cities data](https://github.com/yigith/TurkiyeSehirlerBolgeler), [Turkey districts data](https://github.com/volkansenturk/turkiye-iller-ilceler/blob/master/csvs/ilce.csv)
+
 
 
 
