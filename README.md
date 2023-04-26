@@ -1,5 +1,7 @@
 # Predicting Job Shift using Linkedin Tech-Talent Data
 
+__Problem type: Binary Classification__
+
 Includes detailed solution of [__Garanti BBVA Data Camp__](https://www.kaggle.com/competitions/garanti-bbva-data-camp). I attended the competition solo and ranked 14th(top %9) out of 210 competitors and 174 teams. 
 
 ## Solution
