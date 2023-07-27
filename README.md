@@ -1,4 +1,4 @@
-# Predicting Job Shift using Linkedin Tech-Talent Data
+# Predicting Employee Churn using Linkedin Tech-Talent Data
 
 __Problem type: Binary Classification__
 
